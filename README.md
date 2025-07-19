@@ -1,2 +1,4 @@
 # testing_security
 Testing purpose
+AWS_Access_Key=Yestotestingkiliyebanaihai
+AWS_Secret=dekhtehaiscanhotahaikinahi
